@@ -1,0 +1,35 @@
+CS101|3||Fall 2021|A
+CS155|4|CS101|Spring 2022|A
+CS245|3|CS101|Spring 2022|C
+CS265|4|CS155|Spring 2023|B
+CS288|4|CS245|Spring 2022|B
+CS300|3|CS265|Fall 2021|B
+CS345|3|CS245|Fall 2021|A
+CS350|3|CS300,CS345|Fall 2021|B
+CS351|4|CS155|Spring 2022|B
+CS380|3|CS288,CS351|Fall 2021|A
+CS390|3|CS300|Spring 2022|B
+CS433|3|CS300|Fall 2021|A
+CS440|3|CS265|Spring 2022|B
+CS445|3|Senior Standing|Fall 2021|B
+CS480|3|CS351|Fall 2021|B
+CS495|1|CS445|Fall 2021|C
+CS499|3|CS445|Spring 2022|C
+CS591|3|CS300,CS380,CS480 CS300,CS503 CS500,CS503|Spring 2022|C
+CY201|4|CS155|Spring 2022|C
+IU315|3||Spring 2023|B
+MA139|3|ACT24 MA116 MA137|Fall 2021|C
+MA223|3|ACT24 MA116|Fall 2022|C
+MA464|3|MA223 MA250 MA338 MA345 MA443|Fall 2022|C
+CS3xx+|6||Fall 2021|C
+Science|9||Fall 2021|C
+Social and Behavioral Sciences|6||Spring 2023|B
+Constitution Requirement|3||Spring 2022|B
+Written Communication|6||Fall 2023|C
+Oral Communication|3||Spring 2022|B
+Natural Sciences|7||Fall 2022|B
+Mathematics|3||Fall 2022|B
+Humanities and Fine Arts|9||Spring 2022|B
+Additional Requirements|5||Fall 2022|B
+Senior Standing|0||Spring 2022|B
+ACT24|0||Fall 2024|C

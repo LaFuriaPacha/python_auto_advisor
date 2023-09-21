@@ -1,0 +1,6 @@
+# this file has fonts and UI color configurations
+FONT_NAME = 'TIMES NEW ROMAN'
+BG_COLOR = '#EBEBEB'
+FONT_COLOR_WHITE = '#FFFFFF'
+FONT_COLOR_RED = '#AB1531'
+BG_LETTER_WHITE = '#FFFFFF'
